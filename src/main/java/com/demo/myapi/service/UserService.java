@@ -20,7 +20,8 @@ public class UserService {
         User user2=new User(2,"Sai",22,"sai@gmail.com");
         User user3=new User(3,"Adam",22,"adma99@gmail.com");
         User user4=new User(4,"Sahil",22,"sahil.l@gmail.com");
-
+        User user5=new User(5,"Lavingia",34,"lavingia@hotmail.com");
+        User user6=new User(6,"uman",19,"uman@apple.com");
         userList.addAll(Arrays.asList(user1,user2,user3,user4));
 
     }
